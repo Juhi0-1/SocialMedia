@@ -11,4 +11,8 @@ backend -> Nodejs,Expressjs
 DataBase->MySql
 
 
-[Social media Application.webm](https://github.com/Juhi0-1/SocialMedia/assets/114901107/ed599c06-a107-4e48-a4c4-6c0f14887a8a)
+
+[Share loom social media app](https://github.com/Juhi0-1/SocialMedia/assets/114901107/ff78f6c7-2348-4bec-aa95-2a8d89d2bca7)
+
+
+
